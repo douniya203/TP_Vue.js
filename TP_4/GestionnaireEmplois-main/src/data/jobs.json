@@ -1,0 +1,44 @@
+{
+  "jobs": [
+    {
+      "titre": "Chef de projet informatique",
+      "lieu": "Rabat",
+      "salaire": 70000,
+      "description": "Gestion des projets de transformation digitale et coordination des équipes techniques.",
+      "dateCreation": "2025-09-10",
+      "id": "2"
+    },
+    {
+      "id": "3",
+      "titre": "Ingénieur DevOps",
+      "lieu": "Marrakech",
+      "salaire": 55000,
+      "description": "Mise en place et supervision des pipelines CI/CD, automatisation et surveillance de l’infrastructure cloud.",
+      "dateCreation": "2025-08-25"
+    },
+    {
+      "id": "4",
+      "titre": "Analyste de données",
+      "lieu": "Tanger",
+      "salaire": 47000,
+      "description": "Analyse et visualisation de données pour aider à la prise de décision stratégique. Maîtrise de Python et Power BI.",
+      "dateCreation": "2025-07-05"
+    },
+    {
+      "id": "5",
+      "titre": "Designer UX/UI",
+      "lieu": "Fès",
+      "salaire": 42000,
+      "description": "Conception d’interfaces utilisateurs intuitives et attrayantes, en étroite collaboration avec les développeurs frontend.",
+      "dateCreation": "2025-09-28"
+    },
+    {
+      "id": "2",
+      "titre": "meryem",
+      "lieu": "safi",
+      "salaire": 10000,
+      "description": "lah yssrha lik ",
+      "dateCreation": "2025-11-10"
+    }
+  ]
+}
